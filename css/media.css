@@ -1,0 +1,52 @@
+@media screen and (max-width: 1680px) {
+    .text_bottom {
+        font-size: 71px;
+        padding-top: 71px;
+    }
+
+    .choice {
+        height: 86%;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .choice {
+        height: 87%;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .plan_top {
+        height: 180px;
+        padding-top: 38px;
+    }
+
+    .text_bottom {
+        font-size: 62px;
+        padding-top: 44px;
+    }
+
+    .plan_text {
+        top: 36px;
+    }
+
+    .choice {
+        height: 88%;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .choice {
+        height: 89%;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .text_bottom {
+        font-size: 55px;
+    }
+
+    .choice {
+        height: 90%;
+    }
+}

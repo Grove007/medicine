@@ -1,0 +1,114 @@
+.middle{
+	width:100%;
+	height: 1600px;
+	background:#f8f8f8;
+}
+
+.suppend{
+	width: 1200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: -120px;
+    position: relative;
+}
+.middtop{
+	width: 1200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.middleft{
+	float:left;
+	width:860px;
+	height: auto;
+    background: #fff;
+}
+.middright{
+	float: left;
+    width: 320px;
+    height: 600px;
+    background: #fff;
+    margin-left: 20px;
+}
+.textIndex{
+	margin:20px 15px 40px;
+	font-size:16px;
+	color:#535353;
+}
+.textIndex img{
+	float:left;
+	margin-right:20px;
+}
+.mainTitle{
+   font-size: 20px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.subTitle{
+       margin-bottom: 70px;
+}
+
+.content{
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 30px;
+}
+
+.information{
+	 font-size: 18px;
+    margin: 15px;
+    color: #535353;
+}
+.information span{
+	color:#ddd;
+}
+.imgCont img {
+    width: 290px;
+    height: 240px;
+    margin: 0px 15px;
+} 
+
+.explain{
+	margin: 0px 15px;
+	background:#f8f8f8;
+	width: 320px;
+    height: 70px;
+        font-size: 16px;
+    color: #535353;
+}
+
+.day{
+	 padding: 10px 35px 0px;
+    font-size: 20px;
+    font-weight: bold;
+      
+} 
+.day :nth-child(1) ,.month :nth-child(1){
+	margin-right: 10px;
+    border-right: 1px solid #eee;
+    padding-right: 20px;
+}
+
+.month :nth-child(1){
+	 padding-right: 19px;
+}
+.month{
+	margin-left: 35px;
+    color: #ddd;
+}
+.middright ul{
+    margin: 15px;
+    font-size: 18px;
+    color: #535353;
+    font-weight: 500;
+}
+.middright ul li{
+	list-style: square;
+    margin-left: 20px;
+    color:#00CD00;
+    border-bottom: 1px dashed #eee;
+    padding: 10px;
+}
+.middright ul li span{
+	color:#535353;
+}
